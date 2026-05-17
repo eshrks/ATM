@@ -16,7 +16,7 @@ FONT_MONO = ("Cascadia Code", 10)
 FONT_BOLD = ("Cascadia Code", 12, "bold")
 
 
-# ~~~~~~~~~ DATA STRUCTURES & ALGORITHMS ~~~~~~~~~
+# ~~~~~~~~~ DATA STRUCTURE & ALGORITHM ~~~~~~~~~
 class TransactionNode:
     """Node in a Doubly Linked List."""
     def __init__(self, ts, txn_type, amount, balance_after):
